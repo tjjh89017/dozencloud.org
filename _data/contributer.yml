@@ -1,3 +1,23 @@
-- name: Some Guy (to be continued)
-  bio: some guy
-  facebook: somegy
+- name: Yu-Chiang Huang
+  bio: Develop
+  github: tjjh89017
+  twitter: tjjh89017                                                            
+  facebook: profile.php?id=100000133643206                                      
+  linkedin: yu-chiang-huang-6986a5b2                                            
+  email: tjjh89017@hotmail.com                                                  
+  photo: tjjh89017.jpg
+
+- name: 千秋
+  link: https://about.me/akira02
+
+- name: CrashedBboy
+  link: http://crashedbboy.blogspot.tw/
+
+- name: Gene Kuo
+  email: genekuo.ee04@g2.nctu.edu.tw
+
+- name: Jason
+  email: jasonkao0810@gmail.com
+
+- name: PN Wu (小平)
+  email: PingNote.Wu@gmail.com
