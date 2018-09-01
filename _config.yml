@@ -1,0 +1,32 @@
+# Welcome to Agency Jekyll Theme!
+
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+
+title: DozenCloud Project
+email: tjjh89017@hotmail.com
+description: > # this means to ignore newlines until "author:"
+  DozenCloud Project is an Open Source ARM VPS project
+author: Yu-Chiang Huang
+keyword: ARM
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dozencloud.org" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  tjjh89017
+
+# Build settings
+
+markdown: kramdown
+
+theme: agency-jekyll-theme #The "agency-jekyll-theme" is not supported by GitHub Pages. 
+
+gems:
+  - jekyll-feed
+exclude:
+  - agency-jekyll-theme.gemspec
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png

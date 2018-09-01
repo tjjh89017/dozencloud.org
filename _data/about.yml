@@ -1,0 +1,27 @@
+- name: "Beginnings"
+  image: "1.jpg"
+  img-alt: "image description"
+  year: "2015"
+  text: "Using Raspberry Pi and Banana Pi to build an ARM VPS via OpenStack Kilo"
+  side: left
+
+- name: "True ARMv8 Server"
+  image: "1.jpg"
+  img-alt: "image description"
+  year: "July 2016"
+  text: "Thanks to GIGABYTE and Edge-corE. We have TRUE ARMv8 Server and SDN Switch to build our ARM Cloud for Academic"
+  side: right
+
+- name: "OpenStack Day Taiwan 2016"
+  image: "2.jpg"
+  img-alt: "image description"
+  year: "August 2016"
+  text: "OpenStack Day Taiwan 2016 invited us to give a speech \"OpenStack on ARMv8\""
+  side: left
+
+- name: "Open Source Summit North America 2017"
+  image: "3.jpg"
+  img-alt: "image description"
+  year: "September 2017"
+  text: "Give a speech, Build Cloud Infrastructure with Cheap ARM Boards, with Jim Huang"
+  side: right

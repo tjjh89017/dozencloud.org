@@ -1,0 +1,11 @@
+- name: "ARMv8 Virtual Machine"
+  icon: "server"
+  description: "Native ARM development environment for your software which you wnat to port to ARMv8"
+
+- name: "Free, and Open Source"
+  icon: "code"
+  description: "Helping you to build an ARM Cloud on your own, and serve a ARM VPS in your way"
+
+- name: "Build ARM Private Cloud for You"
+  icon: "cloud"
+  description: "Helping you to build an ARM Cloud on your own, and serve a ARM VPS in your way"
