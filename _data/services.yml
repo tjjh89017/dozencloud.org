@@ -1,10 +1,10 @@
 - name: "ARMv8 Virtual Machine"
   icon: "server"
-  description: "Native ARM development environment for your software which you wnat to port to ARMv8"
+  description: "Native ARM development environment for your software which you want to port to ARMv8"
 
 - name: "Free, and Open Source"
   icon: "code"
-  description: "Helping you to build an ARM Cloud on your own, and serve a ARM VPS in your way"
+  description: "We use OpenStack to build our cloud"
 
 - name: "Build ARM Private Cloud for You"
   icon: "cloud"
