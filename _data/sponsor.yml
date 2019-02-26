@@ -20,8 +20,11 @@
 
 - name: Jal
 
-- name: PN Wu (小平)
-  email: mailto:PingNote.Wu@gmail.com 
+- name: "PN Wu (小平)"
+  github: PingNote
+  twitter: PingNote_Wu
+  linkedin: PingNote
+  email: PingNote.Wu@gmail.com
 
 - name: GIGABYTE 技嘉科技
 
